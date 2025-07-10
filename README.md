@@ -1,4 +1,4 @@
-# voxai
+# happyai
 
 A new Flutter project.
 
